@@ -58,6 +58,8 @@ pip install -r requirements.txt
 ### 2. Add your .env file:
 ```bash
 GOOGLE_API_KEY=your_google_gemini_api_key
+NEWS_API_KEY=your_news_api_key
+FAVQS_API_KEY=your_fav_api_key
 ```
 
 ### 3. Launch Streamlit App

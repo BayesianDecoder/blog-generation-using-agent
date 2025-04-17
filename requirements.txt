@@ -1,0 +1,6 @@
+streamlit
+python-dotenv
+langgraph
+langchain
+langchain-google-genai
+nest_asyncio

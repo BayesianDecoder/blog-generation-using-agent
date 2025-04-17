@@ -1,0 +1,39 @@
+{
+  "seo": {
+    "title": "Renewable Energy Trends: Catching the Winds of Change",
+    "meta_description": "Explore the latest advancements in solar, wind, and energy storage technologies driving the transition to a sustainable energy future. Learn about perovskite solar cells, floating solar farms, larger wind turbines, offshore wind, airborne wind energy systems, lithium-ion batteries, flow batteries, and pumped hydro storage.",
+    "keywords": [
+      "renewable energy",
+      "solar energy",
+      "wind energy",
+      "energy storage",
+      "solar power",
+      "wind power",
+      "perovskite solar cells",
+      "tandem solar cells",
+      "floating solar farms",
+      "offshore wind farms",
+      "airborne wind energy systems",
+      "lithium-ion batteries",
+      "flow batteries",
+      "pumped hydro storage",
+      "sustainable energy",
+      "clean energy",
+      "wind",
+      "solar",
+      "renewables",
+      "res"
+    ],
+    "reading_time": "3-4 minutes",
+    "slug": "renewable-energy-trends"
+  },
+  "system": {
+    "generated_at": "20250416-043159",
+    "word_count": 543,
+    "source_tools": [
+      "NewsData.io",
+      "Datamuse API",
+      "Quotable.io"
+    ]
+  }
+}
